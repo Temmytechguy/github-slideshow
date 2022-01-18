@@ -2,7 +2,7 @@
 layout: slide
 
 title: "Welcome to our second slide!"
-to proceed
+to proceed with new world
 --
 
 my text is here
